@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @madhavmalik<br><br>👨🏻‍💻Currently seeking Winter 2025 internships. Previously worked at Keen Computer Solutions and IBM.<br><br>👀  I’m interested in software development.<br><br>📫 How to reach me :-> https://www.linkedin.com/in/madhavmalik/<br><br>⚡ Fun fact: I love teaching and sharing my knowledge!<br>
+👋 Hi, I’m @madhavmalik<br><br>👨🏻‍💻Currently seeking Winter 2025 internships. Previously worked at Keen Computer Solutions and IBM.<br><br>👀  I’m interested in software development.<br><br>📫 How to reach me :-> https://www.linkedin.com/in/madhavmalik/<br><br>⚡ Fun fact: I love teaching and sharing knowledge!<br>
 I am currently pursuing a Honours BCS degree at the University of Waterloo
 
 
